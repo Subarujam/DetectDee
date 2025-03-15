@@ -7,7 +7,9 @@ DetectDee: Hunt down social media accounts by **username, email or phone** acros
 ## Feat
 - Includes sites frequently used by **CyberSecurity practitioners**
 - Hunt down social media accounts by **username, email or phone**
-- Precise thread control and custom request headers are used to prevent WAF recognition
+- Precise thread control 
+
+and custom request headers are used to prevent WAF recognition
 - Extensible, simple, and easy-to-use template
 - Integration of mobile versions of social networking sites
 
